@@ -3,32 +3,30 @@ answers
 let questions = [
 {
 numb: 1,
-question: "Quem foi a única pessoa na história a receber o Prêmio
-Nobel em áreas científicas diferentes?",
-answer: "Marie Curiee",
+question: "Qual é o centro do nosso sistema solar?",
+answer: "Sol",
 options: [
-"Albert Einstein",
-"Marie Curiee",
-"Stephen Hawking",
-"Linus Pauling"
+"Sol",
+"Lua",
+"Terra",
+"Marte"
 ]
 },
 {
 numb: 2,
-question: "Qual o país mais novo do mundo?",
-answer: "Sudão do Sul",
+question: "Qual é a maior galáxia conhecida?",
+answer: "Andrômeda",
 options: [
-"Timor Lestet",
-"Montenegro",
-"Sudão do Sul",
-"Kosovo"
+"Via Láctea",
+"Andrômeda",
+"Galáxia do Sombrero",
+"Galáxia de Antena"
 ]
 },
 {
 numb: 3,
-question: "Qual o nome do evento astronômico responsável pelo dia
-mais longo do ano?",
-answer: "Solstício de verão",
+question: "",
+answer: "",
 options: [
 "Equinócio de outono",
 "Solstício de inverno",
